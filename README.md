@@ -10,4 +10,4 @@ All presentations must adhere to the [conduct policy](https://codeandsupply.co/p
 
 | Name   	| Talk topic  	|
 |---	|---	|
-|   	|   	|
+| Ken Mugrage  	|  It's not Continuous Delivery if you can't deploy right now 	|
