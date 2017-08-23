@@ -12,3 +12,4 @@ All presentations must adhere to the [conduct policy](https://codeandsupply.co/p
 |---	|---	|
 | Ken Mugrage  	|  It's not Continuous Delivery if you can't deploy right now 	|
 | Evgeny Potapov|  Monitor your business, not your infrastructure   |
+| Zack Zlotnik  |  Multi-stage Docker builds |
