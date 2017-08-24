@@ -13,3 +13,4 @@ All presentations must adhere to the [conduct policy](https://codeandsupply.co/p
 | Ken Mugrage  	|  It's not Continuous Delivery if you can't deploy right now 	|
 | Evgeny Potapov|  Monitor your business, not your infrastructure   |
 | Zack Zlotnik  |  Multi-stage Docker builds |
+| Phillip Green II | [Playing with FI/RE: Personal Finance with Single Responsibility Principle and "CRON Jobs"](https://github.com/phillipgreenii/talks/blob/master/playing-with-fire-personal-finance-with-single-responsibility-principle-and-cron-jobs/README.md) |
