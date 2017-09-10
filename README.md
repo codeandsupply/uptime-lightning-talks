@@ -14,3 +14,5 @@ All presentations must adhere to the [conduct policy](https://codeandsupply.co/p
 | Evgeny Potapov|  Monitor your business, not your infrastructure   |
 | Zack Zlotnik  |  Multi-stage Docker builds |
 | Phillip Green II | [Playing with FI/RE: Personal Finance with Single Responsibility Principle and "CRON Jobs"](https://github.com/phillipgreenii/talks/blob/master/playing-with-fire-personal-finance-with-single-responsibility-principle-and-cron-jobs/README.md) |
+| Carnegie Learning (Sponsor) | What is This All About? |
+
